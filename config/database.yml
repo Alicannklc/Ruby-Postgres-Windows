@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: veritabi adi
+  username: postgres
+  password: şifre
+  host: localhost
+  encoding: UTF8
+  pool: 5
+  timeout: 5000
